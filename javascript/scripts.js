@@ -20,7 +20,7 @@ function loadVideoBackground() {
     // of different video formats to add
     src: [
       {
-        src: 'images/thebots-blinded.mp4',
+        src: '/images/thebots-blinded.mp4',
         type: 'video/mp4',
       },
       // {
